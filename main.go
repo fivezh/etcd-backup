@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/coreos/go-etcd/etcd"
+	"github.com/coreos/etcd"
 )
 
 var (
