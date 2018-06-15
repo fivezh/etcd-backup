@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/coreos/go-etcd/etcd"
+	"github.com/coreos/etcd"
 )
 
 type BackupKey struct {
